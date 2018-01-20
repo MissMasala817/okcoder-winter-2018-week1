@@ -1,0 +1,12 @@
+# OKCoder Week 1 Class Homework
+
+HOMEWORK
+	Finish Notes
+	CREAT A MULTI SITE WEBPAGE ABOUT SELF – 4 TO 5 WEBPAGE AND IMAGES
+		TO DO IN TEXT EDITORS 
+		ABOUT
+		2 HOBBIES
+		FAMILY 
+		LOOK AT FORMATS AND WEBPAGE FOR HELP
+
+I created 2 sites: one personal and one for mom
